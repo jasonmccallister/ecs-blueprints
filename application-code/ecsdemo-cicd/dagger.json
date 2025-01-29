@@ -1,0 +1,6 @@
+{
+  "name": "ecsdemo-cicd",
+  "engineVersion": "v0.15.2",
+  "sdk": "python",
+  "source": ".dagger"
+}
